@@ -6,6 +6,23 @@ h1 {
     color:darkblue;
 }
 
-img {
-    height: 200px;
+.logo {
+    height: 150px;
 }
+
+nav li {
+    font-size: 1.3em;
+    display: inline;
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+nav a {
+    color:blue;
+}
+
+nav a:hover {
+    color:red;
+}
+
+
