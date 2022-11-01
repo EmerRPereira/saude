@@ -3,17 +3,35 @@ body {
 }
 
 h1 {
+    font-size: 2em;
+    font-weight: bold;
     color:darkblue;
+    margin: 15px;
+    text-align: center;
 }
 
 .logo {
-    height: 150px;
+    width: 10%;
+    margin-left: 2%;
+}
+
+.figHeart { 
+    position: absolute;
+    width: 10%;
+    margin-left: 76%;
+}
+
+.cardapio {
+    position: absolute;
+    top: 15px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 nav li {
-    font-size: 1.3em;
+    font-size: 1.1em;
     display: inline;
-    margin-right: 30px;
+    margin-right: 15px;
     font-weight: bold;
 }
 
